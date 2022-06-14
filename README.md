@@ -37,10 +37,9 @@ $ 2kb + 3kb = 5kb $
 
 $2kb + 1kb + 1,208kb = 1,211kb $
 
-$$
-before = 5kb + 1,211kb = 121kb\\
-before = 1216kb
-$$
+$before = 5kb + 1,211kb = 121kb$
+
+$before = 1216kb$
 
 Now ,
 
@@ -50,10 +49,9 @@ Now ,
 
 $after  = 1kb + 2kb + 1kb = 4kb$
 
-$$
-Total = before - after\\
-Total = 1216kb - 4kb = 1212kb
-$$
+$Total = before - after$
+
+$Total = 1216kb - 4kb = 1212kb$
 
 Sorry ! , I can't reduce more !
 
@@ -66,10 +64,14 @@ It asks `You want to see Web Scrapped data (y / n) ->` , say yes as `y` or you w
 Then it asks `You want to see data -> Here only[y] or in Excel[ e ] or Cancel[n] ->` , say `e` to open file in **Microsoft Excel app** .
 ![demo](./img/img1.png)
 
-### demo :
+---
+
+### demo
 
 ![demo](./img/demo.gif)
 
 or say `y` to See data here only ,
 ![demo](./img/img5.png)
 or you want to see yourself on File Explorer then say as `n` to cancel request .
+
+**`-->` Made By [Junaid](https://abujuni.dev) . `<--`**
